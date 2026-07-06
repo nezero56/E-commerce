@@ -131,8 +131,8 @@ src/
 
 ## Live Demo
 
-[Deploy link — add after deploying to Vercel/Netlify]
+[Deploy link — https://vercel.com/munezerosonia85-4533s-projects/e-commerce/6iR61987vi9ghNFGZSKesrtBpSvt]
 
 ## Repository
 
-[GitHub link]
+[GitHub link:https://github.com/nezero56/E-commerce]
